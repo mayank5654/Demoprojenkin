@@ -1,0 +1,7 @@
+F:\phase3\daily examples\day3\ConProOne\ConProOne\bin\Debug\ConProOne.exe.config
+F:\phase3\daily examples\day3\ConProOne\ConProOne\bin\Debug\ConProOne.exe
+F:\phase3\daily examples\day3\ConProOne\ConProOne\bin\Debug\ConProOne.pdb
+F:\phase3\daily examples\day3\ConProOne\ConProOne\obj\Debug\ConProOne.csproj.AssemblyReference.cache
+F:\phase3\daily examples\day3\ConProOne\ConProOne\obj\Debug\ConProOne.csproj.CoreCompileInputs.cache
+F:\phase3\daily examples\day3\ConProOne\ConProOne\obj\Debug\ConProOne.exe
+F:\phase3\daily examples\day3\ConProOne\ConProOne\obj\Debug\ConProOne.pdb
